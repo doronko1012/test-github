@@ -6,3 +6,6 @@ var dic = new Dictionary<string, string>()
     ["Sunflower"] = "ひまわり",
     ["Morning Glory"] = "あさがお"
 };
+
+dic.Add("Tulip", "チューリップ");
+dic["Sunflower"] = "向日葵";
