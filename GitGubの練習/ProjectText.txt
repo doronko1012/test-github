@@ -1,1 +1,8 @@
 テストプロジェクト
+
+var dic = new Dictionary<string, string>()
+{
+    ["Rose"] = "バラ",
+    ["Sunflower"] = "ひまわり",
+    ["Morning Glory"] = "あさがお"
+};
